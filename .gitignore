@@ -1,6 +1,7 @@
 # shared with .npmignore
 # different than .npmignore
 node_modules
+.env
 package-lock.json
 yarn.lock
 /README.md
